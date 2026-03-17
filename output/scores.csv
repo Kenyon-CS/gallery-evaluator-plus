@@ -1,0 +1,13 @@
+layout_id,description,wall_light,num_paintings,fit_score,spacing_score,overlap_penalty,theme_score,period_score,lighting_score,total,valid_fit
+layout02,"Impressionist and modern landscapes with high light",high,5,50,39,0,30,23.44,40,182.44,true
+generated_greedy,"Greedy layout: prefer lighting match, then theme clusters, then smaller widths",medium,5,50,48,0,10,17.0667,35,160.067,true
+layout03,"Modern abstract cluster",high,4,40,36,0,30,23.6,27,156.6,true
+layout01,"Mostly coherent Renaissance and Baroque grouping",medium,5,50,30,0,10,27.8133,35,152.813,true
+layout04,"Intentional theme mismatch: child portrait mixed with history and abstract",medium,5,50,39,0,0,13.4667,35,137.467,true
+layout10,"Overfull layout with bad fit near the right edge",high,6,10,24,0,10,30.7733,48,122.773,false
+layout09,"Too many mixed works stretched across the wall",medium,5,50,30,0,0,15.3867,25,120.387,true
+layout06,"Mostly low-light Baroque and darker works",low,4,40,36,0,0,11.04,32,119.04,true
+layout07,"Good fit but weak period consistency",medium,5,50,30,0,0,9.6,20,109.6,true
+generated_random,"Randomly generated layout",medium,5,50,30,0,0,11.1467,15,106.147,true
+layout05,"Low light wall with several high-light paintings",low,5,50,39,0,0,19.7333,-16,92.7333,true
+layout08,"Tight spacing and one slight overlap",high,6,60,-84,30,40,38.3467,48,72.3467,true

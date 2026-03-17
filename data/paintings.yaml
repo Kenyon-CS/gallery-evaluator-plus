@@ -1,0 +1,181 @@
+paintings:
+  - id: p01
+    title: "Hunters in the Snow"
+    artist: "Pieter Bruegel the Elder"
+    year: 1565
+    period: "Northern Renaissance"
+    theme: "landscape"
+    brightness: 0.45
+    lighting_need: "medium"
+    width_ft: 1.8
+  - id: p02
+    title: "The Tower of Babel"
+    artist: "Pieter Bruegel the Elder"
+    year: 1563
+    period: "Northern Renaissance"
+    theme: "history"
+    brightness: 0.52
+    lighting_need: "medium"
+    width_ft: 1.6
+  - id: p03
+    title: "The Art of Painting"
+    artist: "Johannes Vermeer"
+    year: 1666
+    period: "Baroque"
+    theme: "interior"
+    brightness: 0.38
+    lighting_need: "low"
+    width_ft: 1.7
+  - id: p04
+    title: "Infanta Margarita Teresa in a Blue Dress"
+    artist: "Diego Velázquez"
+    year: 1659
+    period: "Baroque"
+    theme: "child_portrait"
+    brightness: 0.58
+    lighting_need: "medium"
+    width_ft: 1.4
+  - id: p05
+    title: "Flowers in a Wooden Vessel"
+    artist: "Jan Brueghel the Elder"
+    year: 1606
+    period: "Baroque"
+    theme: "still_life"
+    brightness: 0.62
+    lighting_need: "high"
+    width_ft: 1.2
+  - id: p06
+    title: "Suffolk Landscape"
+    artist: "Thomas Gainsborough"
+    year: 1748
+    period: "18th Century"
+    theme: "landscape"
+    brightness: 0.64
+    lighting_need: "high"
+    width_ft: 1.5
+  - id: p07
+    title: "Water Lilies"
+    artist: "Claude Monet"
+    year: 1906
+    period: "Impressionist"
+    theme: "landscape"
+    brightness: 0.76
+    lighting_need: "high"
+    width_ft: 1.6
+  - id: p08
+    title: "Haystacks"
+    artist: "Claude Monet"
+    year: 1891
+    period: "Impressionist"
+    theme: "landscape"
+    brightness: 0.71
+    lighting_need: "high"
+    width_ft: 1.5
+  - id: p09
+    title: "The Kiss"
+    artist: "Gustav Klimt"
+    year: 1908
+    period: "Modern"
+    theme: "portrait"
+    brightness: 0.84
+    lighting_need: "high"
+    width_ft: 1.7
+  - id: p10
+    title: "Beech Grove"
+    artist: "Gustav Klimt"
+    year: 1903
+    period: "Modern"
+    theme: "landscape"
+    brightness: 0.81
+    lighting_need: "high"
+    width_ft: 1.6
+  - id: p11
+    title: "Composition VIII"
+    artist: "Wassily Kandinsky"
+    year: 1923
+    period: "Modern"
+    theme: "abstract"
+    brightness: 0.88
+    lighting_need: "high"
+    width_ft: 1.5
+  - id: p12
+    title: "Yellow-Red-Blue"
+    artist: "Wassily Kandinsky"
+    year: 1925
+    period: "Modern"
+    theme: "abstract"
+    brightness: 0.91
+    lighting_need: "high"
+    width_ft: 1.6
+  - id: p13
+    title: "Gray, Orange on Maroon"
+    artist: "Mark Rothko"
+    year: 1960
+    period: "Modern"
+    theme: "abstract"
+    brightness: 0.43
+    lighting_need: "low"
+    width_ft: 1.8
+  - id: p14
+    title: "Black Lines"
+    artist: "Wassily Kandinsky"
+    year: 1913
+    period: "Modern"
+    theme: "abstract"
+    brightness: 0.74
+    lighting_need: "medium"
+    width_ft: 1.5
+  - id: p15
+    title: "Children's Games"
+    artist: "Pieter Bruegel the Elder"
+    year: 1560
+    period: "Northern Renaissance"
+    theme: "child_portrait"
+    brightness: 0.57
+    lighting_need: "medium"
+    width_ft: 1.7
+  - id: p16
+    title: "The Peasant Wedding"
+    artist: "Pieter Bruegel the Elder"
+    year: 1567
+    period: "Northern Renaissance"
+    theme: "history"
+    brightness: 0.49
+    lighting_need: "medium"
+    width_ft: 1.8
+  - id: p17
+    title: "View of Delft"
+    artist: "Johannes Vermeer"
+    year: 1660
+    period: "Baroque"
+    theme: "cityscape"
+    brightness: 0.46
+    lighting_need: "low"
+    width_ft: 1.6
+  - id: p18
+    title: "The Swing"
+    artist: "Jean-Honoré Fragonard"
+    year: 1767
+    period: "18th Century"
+    theme: "portrait"
+    brightness: 0.73
+    lighting_need: "high"
+    width_ft: 1.4
+  - id: p19
+    title: "Improvisation 28"
+    artist: "Wassily Kandinsky"
+    year: 1912
+    period: "Modern"
+    theme: "abstract"
+    brightness: 0.86
+    lighting_need: "high"
+    width_ft: 1.7
+  - id: p20
+    title: "Storm over the Plain"
+    artist: "Imagined Albertina Work"
+    year: 1780
+    period: "18th Century"
+    theme: "landscape"
+    brightness: 0.34
+    lighting_need: "low"
+    width_ft: 1.5

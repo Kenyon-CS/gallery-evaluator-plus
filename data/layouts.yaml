@@ -1,0 +1,150 @@
+layouts:
+  - id: layout01
+    description: "Mostly coherent Renaissance and Baroque grouping"
+    wall_light: "medium"
+    placements:
+      - painting_id: p01
+        x_ft: 0.0
+      - painting_id: p02
+        x_ft: 2.2
+      - painting_id: p15
+        x_ft: 4.1
+      - painting_id: p04
+        x_ft: 6.4
+      - painting_id: p05
+        x_ft: 8.2
+
+  - id: layout02
+    description: "Impressionist and modern landscapes with high light"
+    wall_light: "high"
+    placements:
+      - painting_id: p06
+        x_ft: 0.0
+      - painting_id: p07
+        x_ft: 2.0
+      - painting_id: p08
+        x_ft: 4.0
+      - painting_id: p10
+        x_ft: 6.0
+      - painting_id: p18
+        x_ft: 8.2
+
+  - id: layout03
+    description: "Modern abstract cluster"
+    wall_light: "high"
+    placements:
+      - painting_id: p11
+        x_ft: 0.0
+      - painting_id: p12
+        x_ft: 2.0
+      - painting_id: p14
+        x_ft: 4.1
+      - painting_id: p19
+        x_ft: 6.1
+
+  - id: layout04
+    description: "Intentional theme mismatch: child portrait mixed with history and abstract"
+    wall_light: "medium"
+    placements:
+      - painting_id: p04
+        x_ft: 0.0
+      - painting_id: p16
+        x_ft: 1.8
+      - painting_id: p12
+        x_ft: 4.0
+      - painting_id: p15
+        x_ft: 6.1
+      - painting_id: p02
+        x_ft: 8.3
+
+  - id: layout05
+    description: "Low light wall with several high-light paintings"
+    wall_light: "low"
+    placements:
+      - painting_id: p05
+        x_ft: 0.0
+      - painting_id: p07
+        x_ft: 1.6
+      - painting_id: p09
+        x_ft: 3.7
+      - painting_id: p11
+        x_ft: 5.8
+      - painting_id: p20
+        x_ft: 8.0
+
+  - id: layout06
+    description: "Mostly low-light Baroque and darker works"
+    wall_light: "low"
+    placements:
+      - painting_id: p03
+        x_ft: 0.0
+      - painting_id: p17
+        x_ft: 2.1
+      - painting_id: p13
+        x_ft: 4.2
+      - painting_id: p20
+        x_ft: 6.5
+
+  - id: layout07
+    description: "Good fit but weak period consistency"
+    wall_light: "medium"
+    placements:
+      - painting_id: p01
+        x_ft: 0.0
+      - painting_id: p18
+        x_ft: 2.2
+      - painting_id: p11
+        x_ft: 4.0
+      - painting_id: p03
+        x_ft: 6.0
+      - painting_id: p08
+        x_ft: 8.1
+
+  - id: layout08
+    description: "Tight spacing and one slight overlap"
+    wall_light: "high"
+    placements:
+      - painting_id: p07
+        x_ft: 0.0
+      - painting_id: p08
+        x_ft: 1.5
+      - painting_id: p10
+        x_ft: 3.0
+      - painting_id: p11
+        x_ft: 4.4
+      - painting_id: p12
+        x_ft: 5.8
+      - painting_id: p19
+        x_ft: 7.3
+
+  - id: layout09
+    description: "Too many mixed works stretched across the wall"
+    wall_light: "medium"
+    placements:
+      - painting_id: p02
+        x_ft: 0.0
+      - painting_id: p04
+        x_ft: 1.9
+      - painting_id: p06
+        x_ft: 3.6
+      - painting_id: p11
+        x_ft: 5.5
+      - painting_id: p17
+        x_ft: 7.5
+
+  - id: layout10
+    description: "Overfull layout with bad fit near the right edge"
+    wall_light: "high"
+    placements:
+      - painting_id: p09
+        x_ft: 0.0
+      - painting_id: p10
+        x_ft: 1.9
+      - painting_id: p07
+        x_ft: 3.8
+      - painting_id: p12
+        x_ft: 5.8
+      - painting_id: p18
+        x_ft: 7.9
+      - painting_id: p05
+        x_ft: 9.5
